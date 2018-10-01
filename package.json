@@ -1,0 +1,25 @@
+{
+  "name": "text-message",
+  "version": "0.0.1",
+  "description": "Text message test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busynight/text-message.git"
+  },
+  "keywords": [
+    "sms"
+  ],
+  "author": "Ivan Espinosa <ivan.eespinosa23@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/busynight/text-message/issues"
+  },
+  "homepage": "https://github.com/busynight/text-message#readme",
+  "dependencies": {
+    "gmail-send": "^1.2.14"
+  }
+}
